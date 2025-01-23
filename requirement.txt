@@ -2,3 +2,4 @@ flask
 secure-smtplib
 email-to
 Flask-Cors
+flask_apscheduler
